@@ -6,6 +6,8 @@ I am studying systems analysis and development and really love everything that i
 
 
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-A-Celestiano&layout=compact&langs_count=16&theme=dracula"/>
+
  <a href="https://www.linkedin.com/in/gabriel-a-celestiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  <div style="display: inline_block"><br>
