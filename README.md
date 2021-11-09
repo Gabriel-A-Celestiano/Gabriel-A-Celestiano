@@ -5,7 +5,7 @@
   📍   Brazil <br>
  😻  Games, Animes and Code 
 
-## knowledge
+## Knowledge
 👨‍🎓 Analysis and systems development <br>
 👨‍💻 HTML | CSS | Javascript <br>
 📚 Javascript | React
