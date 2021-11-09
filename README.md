@@ -6,7 +6,7 @@
  😻  Games, Animes and Code 
 
 ## knowledge
-💻 Analysis and systems development <br>
+👨‍🎓 Analysis and systems development <br>
 👨‍💻 HTML | CSS | Javascript <br>
 📚 Javascript | React
 <div style="display: inline_block"><br>
