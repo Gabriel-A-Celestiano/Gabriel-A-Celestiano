@@ -1,4 +1,4 @@
-# Hello, welcome to my GitHub!  ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
+# Hello, welcome to my GitHub!  ![wave](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
 👨‍🚀 My name's Gabriel A. Celestiano
 
@@ -11,8 +11,3 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-
-![wave](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
- 
- 
