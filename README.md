@@ -13,6 +13,6 @@
 </div>
 
 
-https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
+![wave](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
  
  
